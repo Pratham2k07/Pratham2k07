@@ -1,4 +1,4 @@
-![Header](./src/header_.png)
+![Header](header_.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&height=100&font=40&lines=Hi+there+👋,+I+am+Pratham;Open+Source+Contributor;+I+love+leveraging+tech+to+solve+realworld+complex+problems;+Full+Stack+Developer+proficient+in+C,+Python,+HTML,+JavaScript,+CSS,+JSON,+and+Node.js;+Enthusiast+in+Machine+Learning+AI+,+Game+And+Web+development+🚀)](https://git.io/typing-svg)
 
